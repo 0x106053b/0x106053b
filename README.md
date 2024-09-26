@@ -2,13 +2,17 @@
 
 ### Education
 - `2017.03 ~ 2020.02` Suwon Academy of World Languages (French Major)
-- `2020.03 ~ 2024.06` Sungkyunkwan University Statistic Major
+- `2020.03 ~ 2024.06` Sungkyunkwan University **Statistic Major**
 - `2021.07 ~ ` Sungkyunkwan University Computer Science Major
+<br>
+
+### Role
+- `2024.04 ~ 2024.09` **Siemens Healthineers** Service Operation Data Team Intern
 <br>
 
 ### Stack and Tools
 |Categories|Skills|
-|:---:|:---|
+|:---:|:---:|
 |**Data Visualization**|![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)|
 |**Data Analysis & Modeling**|![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)|
 |**RDBMS**|![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)|
