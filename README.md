@@ -1,4 +1,4 @@
-## 0x106053b
+## Yewon Chun
 
 ### Education
 - `2017.03 ~ 2020.02` Suwon Academy of World Languages (French Major)
