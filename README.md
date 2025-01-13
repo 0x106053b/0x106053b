@@ -22,9 +22,9 @@
 <br>
 
 ### Projects
-[서울특별시 청소년 쉼터 추가 입지 분석 (여성부장관상 수상)](https://github.com/0x106053b/P-Sat_2023_Spring/blob/main/%EC%A3%BC%EC%A0%9C%EB%B6%84%EC%84%9D/6%ED%8C%80_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%ED%8C%80.pdf)
+[🏆 서울특별시 청소년 쉼터 추가 입지 분석 (여성부장관상 수상)](https://github.com/0x106053b/P-Sat_2023_Spring/blob/main/%EC%A3%BC%EC%A0%9C%EB%B6%84%EC%84%9D/6%ED%8C%80_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%ED%8C%80.pdf)
 
-[시공간 복합데이터를 활용한 전력 수요 예측 개선 (기상청장상 수상)](https://github.com/0x106053b/Elect-Consumption-Prediction-2024)
+[🏆 시공간 복합데이터를 활용한 전력 수요 예측 개선 (기상청장상 수상)](https://github.com/0x106053b/Elect-Consumption-Prediction-2024)
 
 [서울특별시 365 열린 어린이집 입지선정](https://github.com/0x106053b/Large-Data-Management-and-Data-Visualization)
 
