@@ -32,4 +32,6 @@
 
 [RAG을 활용한 학습용 커스텀 챗봇 서비스](https://github.com/0x106053b/2024_Kapstone)
 
+[Plotly를 활용한 2020년대 KBO 트레이드 대시보드](https://github.com/0x106053b/after_trade_analysis)
+
 [(Article) Machine Learning-Based Prediction of Controlled Variables of APC Systems Using Time-Series Data in the Petrochemical Industry](https://sciprofiles.com/publication/view/f1ba6bd284afd929c1edf13a06e245c8)
