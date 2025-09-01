@@ -8,7 +8,7 @@
 
 ### Role
 - `2024.04 ~ 2024.09` **Siemens Healthineers** Service Operation Data Team Intern
-- `2025.07 ~ ` **Kbank** AI Development Intern
+- `2025.07 ~ ` **Kbank** AI Developmen
 <br>
 
 ### Stack and Tools
