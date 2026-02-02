@@ -23,18 +23,3 @@
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 <br>
-
-### Projects
-[🏆 서울특별시 청소년 쉼터 추가 입지 분석 (여성부장관상 수상)](https://github.com/0x106053b/P-Sat_2023_Spring/blob/main/%EC%A3%BC%EC%A0%9C%EB%B6%84%EC%84%9D/6%ED%8C%80_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%ED%8C%80.pdf)
-
-[🏆 시공간 복합데이터를 활용한 전력 수요 예측 개선 (기상청장상 수상)](https://github.com/0x106053b/Elect-Consumption-Prediction-2024)
-
-[서울특별시 365 열린 어린이집 입지선정](https://github.com/0x106053b/Large-Data-Management-and-Data-Visualization)
-
-[판례 데이터 기반 댓글 고소확률 예측 서비스](https://github.com/0x106053b/2023-2-PSAT-team-timeseries)
-
-[RAG을 활용한 학습용 커스텀 챗봇 서비스](https://github.com/0x106053b/2024_Kapstone)
-
-[Plotly를 활용한 2020년대 KBO 트레이드 대시보드](https://github.com/0x106053b/after_trade_analysis)
-
-[(Article) Machine Learning-Based Prediction of Controlled Variables of APC Systems Using Time-Series Data in the Petrochemical Industry](https://sciprofiles.com/publication/view/f1ba6bd284afd929c1edf13a06e245c8)
